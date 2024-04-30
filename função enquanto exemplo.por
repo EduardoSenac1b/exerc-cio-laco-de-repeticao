@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
-    inteiro contador = 1
-    enquanto (contador >= 10){
+    inteiro contador = 10
+    enquanto (contador >= 1){
       escreva(contador)
       contador ++
     }
